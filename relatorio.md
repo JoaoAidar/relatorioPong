@@ -21,22 +21,22 @@ Estudando o jogo Pong, concluímos que a simplicidade das mecânicas é parte es
 *- **Objetivo da Reinvenção:** A nova versão busca manter as mecânicas e dinâmicas originais, somente adaptando o jogo à hardware moderno*
 
 
-![alt text](<racunho1Joao.jpg>)
+![Rascunho 1](<rascunho1Joao.png>)
 ---
 
 ## 4. Tela Digital do Jogo  
-*Adicione aqui a **imagem da tela digital finalizada** ou o **link para o arquivo**.*  
+https://drive.google.com/file/d/1Tps20uSijFRNvomPsl-sg8kquTqaXAnt/view?usp=sharing
 
 *- Como o concept foi adaptado para o formato digital?*
-
+ Usamos de imagens sem direitos autorais para transpor os desenhos ao meio digital
 *- Quais elementos visuais foram aprimorados?*  
-
+ Todo o visual do jogo foi refeito para se assemelhar à uma quadra de tênis, as barras, o cenário e a bola foram alterados.
 *- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?*  
-
+ Buscamos manter o sentimento de competitividade, mantendo o visual limpo e focado nas mecânicas.
 ---
 
 ## 5. Reflexão e Aprendizados  
-*Cada membro da dupla deve responder individualmente:*  
+ 
 
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
     Nosso maior desafio foi discutir o escopo do rework. Tivemos muitas ideias boas mas a discussão nos mostrou que o simples bem feito era um caminho adequado e que traria um bom produto final.
