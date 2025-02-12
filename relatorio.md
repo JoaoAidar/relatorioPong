@@ -23,10 +23,11 @@ Estudando o jogo Pong, concluímos que a simplicidade das mecânicas é parte es
 
 
 ![Rascunho 1](<rascunho1Joao.png>)
+
 ---
 
 ## 4. Tela Digital do Jogo  
-https://drive.google.com/file/d/1Tps20uSijFRNvomPsl-sg8kquTqaXAnt/view?usp=sharing
+![Mock da tela](https://drive.google.com/file/d/1Tps20uSijFRNvomPsl-sg8kquTqaXAnt/view?usp=sharing)
 
 *- Como o concept foi adaptado para o formato digital?*
  Usamos de imagens sem direitos autorais para transpor os desenhos ao meio digital
@@ -34,6 +35,7 @@ https://drive.google.com/file/d/1Tps20uSijFRNvomPsl-sg8kquTqaXAnt/view?usp=shari
  Todo o visual do jogo foi refeito para se assemelhar à uma quadra de tênis, as barras, o cenário e a bola foram alterados.
 *- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?*  
  Buscamos manter o sentimento de competitividade, mantendo o visual limpo e focado nas mecânicas.
+ 
 ---
 
 ## 5. Reflexão e Aprendizados  
@@ -44,6 +46,7 @@ https://drive.google.com/file/d/1Tps20uSijFRNvomPsl-sg8kquTqaXAnt/view?usp=shari
 
 2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?  
     Ganhamos um melhor entendimento do framework MDA, além de termos discutido bastante e compartilhado muitos conhecimentos e referências. Por fim, aprimoramos nossas capacidades de design e resolução de problemas.
+   
 ---
 
 
