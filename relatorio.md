@@ -8,6 +8,7 @@ A atividade consistiu em jogar o clássico Pong do Atari, entender as escolhas d
  
 ## 2. Pesquisa e Análise Inicial  
 Estudando o jogo Pong, concluímos que a simplicidade das mecânicas é parte essencial do design do jogo. Por mais que seja consequência do hardware da época, a simplicidade das mecânicas torna o aprendizado intuitivo e rápido, deixando mais tempo para o aproveitamento das dinâmicas que o jogo oferece. Por fim, mantendo o sentimento de competitividade, resolvemos reformular a parte visual para aproveitar as vantagens de computadores modernos. 
+
 ---
 
 ## 3. Proposta de Reinvenção  
