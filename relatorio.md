@@ -22,12 +22,12 @@ Estudando o jogo Pong, concluímos que a simplicidade das mecânicas é parte es
 *- **Objetivo da Reinvenção:** A nova versão busca manter as mecânicas e dinâmicas originais, somente adaptando o jogo à hardware moderno*
 
 
-![Rascunho 1](<rascunho1Joao.png>)
+![Rascunho 1](<./rascunho1Joao.png>)
 
 ---
 
 ## 4. Tela Digital do Jogo  
-![Mock da tela](https://drive.google.com/file/d/1Tps20uSijFRNvomPsl-sg8kquTqaXAnt/view?usp=sharing)
+https://drive.google.com/file/d/1Tps20uSijFRNvomPsl-sg8kquTqaXAnt/view?usp=sharing
 
 *- Como o concept foi adaptado para o formato digital?*
  Usamos de imagens sem direitos autorais para transpor os desenhos ao meio digital
